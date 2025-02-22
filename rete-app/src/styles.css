@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+}
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.ant-message {
+  left: unset !important;
+  transform: unset !important;
+  width: auto;
+  right: 0;
+  z-index: 1;
+}
